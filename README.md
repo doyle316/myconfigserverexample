@@ -1,0 +1,2 @@
+# myconfigserverexample
+for microservices
